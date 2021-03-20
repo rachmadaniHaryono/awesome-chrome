@@ -50,6 +50,10 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 
 * [GitHub Linker](https://chrome.google.com/webstore/detail/github-linker/jlmafbaeoofdegohdhinkhilhclaklkp) - It links NPM, bower, Composer & Duo dependencies to their GitHub repository page.
 * [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc) - Validate and view JSON documents.
+* [Interceptor](https://chrome.google.com/webstore/detail/interceptor/enenfaicdcfgcnjmiigcjbmlbaoapnen) - Run web clients without backends by mocking HTTP requests.
+* [CodeWing](https://chrome.google.com/webstore/detail/codewing-github-code-navi/njkkfaliiinmkcckepjdmgbmjljfdeee) - Next level code navigation for GitHub.
+* [OctoTree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc) - Navigate and review GitHub code with ease.
+* [SpanTree](https://chrome.google.com/webstore/detail/spantree-gitlab-tree/gcjikeldobhnaglcoaejmdlmbienoocg) - Navigate through GitLab repositories easily.
 
 ## Fun
 *Some awesome apps to pass time*
@@ -72,13 +76,14 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 
 * [AutoPagerize](https://chrome.google.com/webstore/detail/autopagerize/igiofjhpmpihnifddepnpngfjhkfenbp) - Auto loading paginated web pages.
 * [CVim](https://chrome.google.com/webstore/detail/cvim/ihlenndgcmojhcghmfjfneahoeklbjjh) - Adding Vim-like bindings to Google Chrome.
-* [Data Saver](https://chrome.google.com/webstore/detail/data-saver/pfmgfdlgomnbgkofeojodiodmgpgmkac) - Reduces data usage by using Google servers to optimize pages you visit.
+* [Daily](https://chrome.google.com/webstore/detail/daily-20-source-for-busy/jlmpjdjjbgclbocgajdjefcidcncaied) - Replaces your new tab with curated latest dev articles. 
 * [Decentraleyes](https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj) - Protects you against tracking through "free", centralized, content delivery.
 * [Detox](http://usedetox.com) - Replace your Facebook feed with something positively distracting.
 * [Drag and Go](https://chrome.google.com/webstore/detail/drag-and-go/jaikcnhlohebodlpkmjepipngegjbfpg) - Super Drag and Go, plus 6 most frequently used gestures.
 * [Evernote Web Clipper](https://evernote.com/intl/de/webclipper/) - The easiest way to save, mark up and share anything you see online.
 * [Fauxbar](https://chrome.google.com/webstore/detail/fauxbar/hibkhcnpkakjniplpfblaoikiggkopka) - An alternative to Chrome's Omnibox. 
 * [Ghostery](https://chrome.google.com/webstore/detail/ghostery/mlomiejdfkolichcflejclcbmpeaniij) - Protect your privacy by seeing who's tracking your web browsing with Ghostery.
+* [Gmail Labels as Tabs](https://tuladhar.github.io/gmail-labels-as-tabs/) - Organize your Gmail labels as tabs.
 * [LastPass](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd) - Saves your passwords and gives you secure access from every computer and mobile device
 * [Magic Actions for YouTube](https://chrome.google.com/webstore/detail/magic-actions-for-youtube/abjcfabbhafbcdfjoecdgepllmpfceif) - Enhance your YouTube watching experience, with feature such as Auto HD, Ad Block, Cinema Mode, Mouse Wheel Volume Control, Screenshot.
 * [Nimbus Screenshot Screen](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj) - Screen Capture FULL Web page or any part. Edit screenshots. Record screencasts - record video from your screen.
@@ -92,8 +97,8 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [Tabs Outliner](https://chrome.google.com/webstore/detail/tabs-outliner/eggkanocgddhmamlbiijnphhppkpkmkl) - Session manager.
 * [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) - The world's most popular userscript manager.
 * [Taskade](https://www.taskade.com) - Real-time collaborative task lists and outlines for teams.
-* [The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg) - Automatically suspends unused tabs to free up system resources.
-* [Ublock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - Efficient blocker, whichi is easy on CPU and memory.
+* ~[The Great Suspender](https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg) - Automatically suspends unused tabs to free up system resources.~ ([reported as malware](https://www.techworm.net/2021/02/google-remove-great-suspender-extension.html))
+* [Ublock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - Efficient blocker, which is easy on CPU and memory.
 * [Umatrix](https://chrome.google.com/webstore/detail/umatrix/ogfcmafjalglgifnmanfmnieipoejdcf) - Point & click to forbid/allow any class of requests made by your browser and use it to block scripts, iframes, ads, facebook, etc.
 * [Video Blocker](https://chrome.google.com/webstore/detail/video-blocker/jknkjnpcbbgcbdbaampbjlhkcghmgfhk) - Hide annoying videos on YouTube from any channel you want.
 * [Vimium](https://github.com/philc/vimium) - Provides keyboard-based navigation and control of the web in the spirit of the Vim editor.
@@ -108,13 +113,13 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 ## Shopping
 *Online shopping can be an addiction*
 
-**Please contribute to add awesome extensions for this category**
+* [Raise](https://chrome.google.com/webstore/detail/raisecom-extension/kknoembcnnnhefehcmegppchcmggaafo) - Save money shopping online with discounted gift cards
 
 ## Social & Communication
 *Facebook, Twitter, Google+, Pinterest and so on..*
 
 * [snipandshare](http://www.snipandshare.com) - Tweet the best bits of the web using our Chrome extension.
-* [AlienTube for Youtube](https://chrome.google.com/webstore/detail/alientube-for-youtube/opgodjgjgojjkhlmmhdlojfehcemknnp) - Reddit comments for YouTube.
+* [AlienTube for Youtube](https://chrome.google.com/webstore/detail/alientube-for-youtube/egkobojmnpcpcfhnhiagjacimhgfhgdk) - Reddit comments for YouTube.
 * [HTTPS Everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp) - Encrypt the Web by automatically use HTTPS security on many sites.
 * [Privacy Badger](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) - Protects you from trackers as you surf the web.
 
@@ -133,6 +138,6 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 ... and [Contributors](https://github.com/xyNNN/awesome-mac/graphs/contributors)!
 
 ## License
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Philipp Bräutigam](http://www.philipp-braeutigam.de) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Philipp Bräutigam](https://philipp-braeutigam.de) has waived all copyright and related or neighboring rights to this work.
