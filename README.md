@@ -121,6 +121,7 @@ Please see [CONTRIBUTING](https://github.com/xyNNN/awesome-mac/blob/master/CONTR
 * [ZenHub](https://www.zenhub.io) - Project management inside GitHub.
 * [Zenith - Upgrade for YouTube](https://chromewebstore.google.com/detail/zenith-upgrade-for-youtub/ijemkepfnohkofhhcgcnlgkimjonogii) - The ultimate YouTube enhancer. Fixes UI annoyances, unlocks speed limits, and adds 50+ productivity tools.
 * [ZeroTrust](https://github.com/sattyamjjain/zerotrust) - AI-powered website security scanner that runs entirely on-device. Trust scores, phishing detection, SSL checks, and cookie compliance with zero data transmission.
+* [Agentic Workflow (AWFlow)](https://awflow.io) - AI-powered browser extension to automate web tasks, extract data, and run workflows directly in your browser.
 
 ## Search Tools
 *You search for something? Looking here for your tools*
